@@ -1,0 +1,6 @@
+C:\Users\psingh1\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\psingh1\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\psingh1\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\psingh1\source\repos\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\psingh1\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\psingh1\source\repos\Login\Login\obj\Debug\Login.pdb

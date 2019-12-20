@@ -1,0 +1,6 @@
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\bin\Debug\ParametersDemo.exe.config
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\bin\Debug\ParametersDemo.exe
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\bin\Debug\ParametersDemo.pdb
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\obj\Debug\ParametersDemo.csprojAssemblyReference.cache
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\obj\Debug\ParametersDemo.exe
+C:\Users\psingh1\source\repos\ParametersDemo\ParametersDemo\obj\Debug\ParametersDemo.pdb

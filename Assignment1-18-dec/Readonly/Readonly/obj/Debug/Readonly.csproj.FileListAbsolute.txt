@@ -1,0 +1,6 @@
+C:\Users\psingh1\source\repos\Readonly\Readonly\bin\Debug\Readonly.exe.config
+C:\Users\psingh1\source\repos\Readonly\Readonly\bin\Debug\Readonly.exe
+C:\Users\psingh1\source\repos\Readonly\Readonly\bin\Debug\Readonly.pdb
+C:\Users\psingh1\source\repos\Readonly\Readonly\obj\Debug\Readonly.csprojAssemblyReference.cache
+C:\Users\psingh1\source\repos\Readonly\Readonly\obj\Debug\Readonly.exe
+C:\Users\psingh1\source\repos\Readonly\Readonly\obj\Debug\Readonly.pdb
